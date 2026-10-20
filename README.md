@@ -8,6 +8,6 @@ Guides (RU/EN) live in Steam. Start here:
 - **Our mods** —
   [SB Pitch-Black Nights](https://github.com/onomatheater/sb-pitch-black-nights)
   ([portal](https://mods.factorio.com/mod/sb-pitch-black-nights)) ·
-  [SB Pack Badge](https://github.com/onomatheater/sb-pack-badge)
+  [SB Pack Badge](https://github.com/onomatheater/Spaced-Outbreak/tree/main/pack-mods/sb-pack-badge) (pack-only, inside this repo)
 
 Non-commercial. Every third-party mod stays property of its author — see credits in the launcher repo.
