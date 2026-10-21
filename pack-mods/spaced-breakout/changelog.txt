@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2026-10-21
+  Features:
+    - Initial release: meta-mod pulls the whole pinned SPACED OUTBREAK set (39 mods + base + space-age).
+    - Pack badge greeting in chat on join (absorbed from sb-pack-badge).
+    - Placeable spaced-breakout-logo entity (pack monument, MIT sprite).
+    - Main-menu simulation: hand-built diorama, camera on the logo, no controller GUI.
+  Changes:
+    - sb-pitch-black-nights pinned last in load order so its night LUT wins.
+---------------------------------------------------------------------------------------------------
