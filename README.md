@@ -8,7 +8,7 @@ Guides (RU/EN) live in Steam. Start here:
 - **Our mods** —
   [SB Pitch-Black Nights](https://github.com/onomatheater/sb-pitch-black-nights)
   ([portal](https://mods.factorio.com/mod/sb-pitch-black-nights)) ·
-  [spaced-breakout](https://github.com/onomatheater/Spaced-Outbreak/tree/main/pack-mods/spaced-breakout) (meta-mod, pins the whole set; absorbs `sb-pack-badge` greeting)
+  [spaced-breakout](https://github.com/onomatheater/Spaced-Outbreak/tree/main/pack-mods/spaced-breakout) (meta-mod, pins the whole set)
 
 ## Install
 
@@ -32,7 +32,7 @@ Co-op 2–4 players, 150+ hour builds. Server options (Hamachi/Radmin, VPS 4vCPU
 
 ## Pack contents (v1.2, 40 mods)
 
-Own mods: `sb-pitch-black-nights` (clean-room pitch-black nights, MIT) and `spaced-breakout` (pack meta-mod: dependencies pin the set, badge greeting, logo entity, menu simulation). `sb-pack-badge` was absorbed by the meta-mod and left the bundle in v1.2 (replaced 1:1 by `spaced-breakout`, count stays 40).
+Own mods: `sb-pitch-black-nights` (pitch-black nights, MIT) and `spaced-breakout` (pack meta-mod: dependencies pin the set, pack greeting in chat, logo entity, menu simulation).
 
 Table below is generated from `launcher-repo/credits.json` (single source; generator: `_local/build_readme_credits.py`). Versions must match `manifest.json`.
 
@@ -79,5 +79,5 @@ Table below is generated from `launcher-repo/credits.json` (single source; gener
 | tenebris-prime | 1.3.10 | Big_J, MeteorSwarm | MIT | [portal](https://mods.factorio.com/mod/tenebris-prime) |
 | tile-upgrade-planner-muluna | 1.0.6 | MeteorSwarm | MIT | [portal](https://mods.factorio.com/mod/tile-upgrade-planner-muluna) |
 
-Non-commercial. Every third-party mod stays property of its author. Nights in this pack come from our own `sb-pitch-black-nights` — no unredistributable night mods involved.
+Non-commercial. Every third-party mod stays property of its author. Nights in this pack come from our own `sb-pitch-black-nights`.
 
