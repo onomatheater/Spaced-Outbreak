@@ -1,6 +1,6 @@
 # SPACED OUTBREAK
 
-Hardcore co-op modpack for **Factorio 2.0.77** + Space Age: Krastorio 2 Spaced Out, 9 planets, Rampant warfare, pitch-black nights. Pack v1.2, 40 mods, every version pinned and tested as one build.
+Hardcore co-op modpack for **Factorio 2.0.77** + Space Age: Krastorio 2 Spaced Out, 9 worlds (4 vanilla Space Age planets + 5 custom ones), Rampant warfare, pitch-black nights. Pack v1.2, 40 mods, every version pinned and tested as one build.
 
 Guides (RU/EN) live in Steam. Start here:
 
@@ -32,7 +32,7 @@ Co-op 2–4 players, 150+ hour builds. Server options (Hamachi/Radmin, VPS 4vCPU
 
 ## Pack contents (v1.2, 40 mods)
 
-Own mods: `sb-pitch-black-nights` (clean-room pitch-black nights, MIT) and `spaced-breakout` (pack meta-mod: dependencies pin the set, badge greeting, logo entity, menu simulation). `sb-pack-badge` is absorbed by the meta-mod and leaves the bundle on the next rebuild.
+Own mods: `sb-pitch-black-nights` (clean-room pitch-black nights, MIT) and `spaced-breakout` (pack meta-mod: dependencies pin the set, badge greeting, logo entity, menu simulation). `sb-pack-badge` was absorbed by the meta-mod and left the bundle in v1.2 (replaced 1:1 by `spaced-breakout`, count stays 40).
 
 Table below is generated from `launcher-repo/credits.json` (single source; generator: `_local/build_readme_credits.py`). Versions must match `manifest.json`.
 
