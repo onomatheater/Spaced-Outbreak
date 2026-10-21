@@ -5,7 +5,7 @@
   "author": "onomatheater",
   "contact": "https://github.com/onomatheater/Spaced-Outbreak",
   "homepage": "https://github.com/onomatheater/Spaced-Outbreak",
-  "description": "SPACED OUTBREAK modpack for Factorio 2.0 (K2SO + 9 planets). Subscribing installs the whole pinned set. Pack-only, MIT.",
+  "description": "SPACED OUTBREAK modpack for Factorio 2.0 (K2SO + 9 worlds: 4 vanilla Space Age planets + 5 custom ones). Subscribing installs the whole pinned set. Pack-only, MIT.",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
