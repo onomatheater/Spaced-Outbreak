@@ -78,8 +78,6 @@ Table below is generated from `launcher-repo/credits.json` (single source; gener
 | SpidertronPatrols | 2.6.4 | Xorimuth | MIT | [portal](https://mods.factorio.com/mod/SpidertronPatrols) · [discord](https://discord.gg/pkJc4v9nfT) |
 | tenebris-prime | 1.3.10 | Big_J, MeteorSwarm | MIT | [portal](https://mods.factorio.com/mod/tenebris-prime) |
 | tile-upgrade-planner-muluna | 1.0.6 | MeteorSwarm | MIT | [portal](https://mods.factorio.com/mod/tile-upgrade-planner-muluna) |
-| *Not in bundle — install separately* |||||
-| DarkNight | 2.0.0 | Skrundz | Skrunix (no redistribution, personal use only) | [portal](https://mods.factorio.com/mod/DarkNight) · [repo](https://git.skrundz.dev/skrundztorio/DarkNight) |
 
-Non-commercial. Every third-party mod stays property of its author. `DarkNight` (Skrunix, no redistribution) is NOT in the bundle by design — our nights come from `sb-pitch-black-nights` instead.
+Non-commercial. Every third-party mod stays property of its author. Nights in this pack come from our own `sb-pitch-black-nights` — no unredistributable night mods involved.
 
