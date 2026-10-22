@@ -8,7 +8,7 @@ Guides (RU/EN) live in Steam. Start here:
 - **Our mods** —
   [SB Pitch-Black Nights](https://github.com/onomatheater/sb-pitch-black-nights)
   ([portal](https://mods.factorio.com/mod/sb-pitch-black-nights)) ·
-  [spaced-breakout](https://github.com/onomatheater/Spaced-Outbreak/tree/main/pack-mods/spaced-breakout) (meta-mod, pins the whole set)
+  [spaced-breakout](https://mods.factorio.com/mod/spaced-breakout) (meta-mod, pins the whole set)
 
 ## Install
 
@@ -73,7 +73,7 @@ Table below is generated from `launcher-repo/credits.json` (single source; gener
 | snouz_better_substation | 1.2.1 | snouz | NO LICENSE in zip — permission granted | [portal](https://mods.factorio.com/mod/snouz_better_substation) · [repo](https://github.com/snouz/Moshine) |
 | space-exploration-graphics | 0.7.5 | Earendel | FMLDOL (mod packs allowed) | [portal](https://mods.factorio.com/mod/space-exploration-graphics) · [discord](https://discord.gg/earendel) |
 | space-exploration-graphics-4 | 0.7.2 | Earendel | FMLDOL (mod packs allowed) | [portal](https://mods.factorio.com/mod/space-exploration-graphics-4) · [discord](https://discord.gg/earendel) |
-| spaced-breakout | 1.2.0 | onomatheater | MIT (own mod) | [repo](https://github.com/onomatheater/Spaced-Outbreak/tree/main/pack-mods/spaced-breakout) |
+| spaced-breakout | 1.2.0 | onomatheater | MIT (own mod) | [portal](https://mods.factorio.com/mod/spaced-breakout) · [repo](https://github.com/onomatheater/Spaced-Outbreak/tree/main/pack-mods/spaced-breakout) |
 | SpidertronEnhancements | 1.10.8 | Xorimuth | MIT | [portal](https://mods.factorio.com/mod/SpidertronEnhancements) · [discord](https://discord.gg/pkJc4v9nfT) |
 | SpidertronPatrols | 2.6.4 | Xorimuth | MIT | [portal](https://mods.factorio.com/mod/SpidertronPatrols) · [discord](https://discord.gg/pkJc4v9nfT) |
 | tenebris-prime | 1.3.10 | Big_J, MeteorSwarm | MIT | [portal](https://mods.factorio.com/mod/tenebris-prime) |
